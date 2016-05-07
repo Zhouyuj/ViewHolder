@@ -17,5 +17,11 @@ public class Test {
             System.out.print("test"+i);
 
         }
+
+
+        for (int i = 0; i < 10; i++) {
+            System.out.print("test"+i);
+
+        }
     }
 }
